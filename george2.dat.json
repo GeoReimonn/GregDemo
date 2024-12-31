@@ -1,0 +1,26 @@
+{
+    "Experiment Name": "My first experiment",
+    "Experiment Date": "2024-01-31",
+    "Experimentor": "Greg Reimonn",
+    "Type": "REIMONN Spectroscopy",
+    "REIMONN OUTPUT": {
+        "x": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "y": [
+            5,
+            4,
+            3,
+            2
+        ]
+    },
+    "REIMONN Added Value": [
+        0,
+        4,
+        6,
+        6
+    ]
+}
